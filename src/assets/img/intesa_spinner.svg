@@ -1,0 +1,27 @@
+<svg x="0px" y="0px" viewBox="0 0 113.73 117.07" style="enable-background:new 0 0 113.73 117.07;" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#003057; }
+	.st1{	fill:#6CCA98; 
+			animation-name: diamondOriginChanged;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            transform-origin: 50% 50%;
+		}
+	.st2{fill:#0C7AB8;
+			animation-name: diamondOriginChanged;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            transform-origin: 50% 50%;
+		}
+        @keyframes diamondOriginChanged {
+            from { transform: rotate(0deg); }
+            to   { transform: rotate(360deg); }
+        }</style>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m70.395007,62.330005l0,0c1.91,-5.85 -0.18,-12.26 -5.18,-15.88c-5,-3.62 -11.77,-3.62 -16.77,0c-5,3.62 -7.09,10.02 -5.18,15.88s7.39,9.81 13.57,9.81s11.65,-3.96 13.56,-9.81" class="st0"/>
+  <polygon id="svg_2" points="80.4550103098154,16.980005741119385 62.06500329077244,17.030006885528564 52.90500344336033,32.90000772476196 71.33500756323338,32.88000726699829 80.5350121408701,48.68000650405884 89.69500817358494,32.81000375747681 " class="st1"/>
+  <polygon id="svg_3" points="80.66500939428806,67.11000680923462 71.4550103098154,82.99000406265259 53.115010157227516,83.02000284194946 62.34500207006931,98.85000467300415 80.73500908911228,98.8100037574768 89.89500512182713,82.9400086402893 " class="st2"/>
+  <polygon id="svg_4" points="18.545006647706032,42.10000467300415 9.395007982850075,57.99000787734985 18.625006571412086,73.82000589370728 37.005009546875954,73.78000497817993 27.78500832617283,58.01000452041626 36.925007715821266,42.06000757217407 " class="st2"/>
+ </g></svg>
